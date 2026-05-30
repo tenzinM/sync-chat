@@ -5,8 +5,6 @@ SyncChat is a modern real-time messaging application built using React, Node.js,
 
 The platform allows users to register, authenticate securely, join chat rooms, exchange messages instantly, and view online user activity in real time. Messages are persisted in a PostgreSQL database, ensuring chat history remains available across sessions.
 
-The project was designed to demonstrate full-stack development skills including frontend architecture, backend API development, real-time communication, authentication, database design, and deployment.
-
 A full-stack real-time chat platform built with React, Node.js, Socket.io, and PostgreSQL.
 
 ## Features
@@ -39,8 +37,10 @@ Database:
 Client → Socket.io → Express → PostgreSQL
 
 ## Screenshots
+<img width="261" height="293" alt="Screenshot 2026-05-30 at 4 14 30 PM" src="https://github.com/user-attachments/assets/0b504720-b201-4a3d-88e3-722de4266a22" />
+<img width="354" height="282" alt="Screenshot 2026-05-30 at 4 14 46 PM" src="https://github.com/user-attachments/assets/e7e44851-2405-4680-9b08-0f3d777b5913" />
+<img width="140" height="232" alt="Screenshot 2026-05-30 at 4 15 00 PM" src="https://github.com/user-attachments/assets/1cecbdc8-86ab-4f51-a486-607a2d8d2c48" />
 
-(Add screenshots here)
 
 ## Installation
 
