@@ -13,4 +13,13 @@ app.get("/health", (req, res) => {
   });
 });
 
+const authRoutes = require("./routes/auth");
+
+app.use("/api/auth", authRoutes);
+
+const messageRoutes = require("./routes/messages");
+
+app.use("/api/messages", messageRoutes);
+
 module.exports = app;
+
